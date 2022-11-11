@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ACCModule/ACCModule.iml" filepath="$PROJECT_DIR$/ACCModule/ACCModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarModule/CarModule.iml" filepath="$PROJECT_DIR$/CarModule/CarModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DCCModule/DCCModule.iml" filepath="$PROJECT_DIR$/DCCModule/DCCModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/Software Engineering.iml" filepath="$PROJECT_DIR$/Software Engineering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedControlSystemModule/SpeedControlSystemModule.iml" filepath="$PROJECT_DIR$/SpeedControlSystemModule/SpeedControlSystemModule.iml" />
     </modules>
   </component>
 </project>
