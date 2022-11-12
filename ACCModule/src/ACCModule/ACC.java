@@ -11,6 +11,6 @@ public class ACC implements SpeedProvider {
 
     @Override
     public String getDiscription() {
-        return null;
+        return "ACC";
     }
 }

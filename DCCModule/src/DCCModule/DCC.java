@@ -10,6 +10,6 @@ public class DCC implements SpeedProvider {
 
     @Override
     public String getDiscription() {
-        return null;
+        return "DCC";
     }
 }
