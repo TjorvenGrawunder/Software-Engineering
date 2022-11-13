@@ -2,11 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a7c86f6-3681-4b7f-a7f0-ff083784814b" name="Changes" comment="Aufgabe 3 beendet">
+      <change afterPath="$PROJECT_DIR$/Blatt 3/Minesweeper/src/Controller/FieldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blatt 3/Minesweeper/src/MineSweeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blatt 3/Minesweeper/src/Model/GameBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blatt 3/Minesweeper/src/View/GameView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blatt 3/SpeedControlSystemModule/SpeedControlSystemModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACCModule/src/ACCModule/ACC.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACCModule/src/ACCModule/ACC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarModule/src/CarModule/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/CarModule/src/CarModule/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DCCModule/src/DCCModule/DCC.java" beforeDir="false" afterPath="$PROJECT_DIR$/DCCModule/src/DCCModule/DCC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpeedControlSystemModule/src/SpeedControlSystemModule/SpeedProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpeedControlSystemModule/src/SpeedControlSystemModule/SpeedProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACCModule/ACCModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Blatt 3/ACCModule/ACCModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACCModule/src/ACCModule/ACC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blatt 3/ACCModule/src/ACCModule/ACC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACCModule/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blatt 3/ACCModule/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarModule/CarModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Blatt 3/CarModule/CarModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarModule/src/CarModule/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blatt 3/CarModule/src/CarModule/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarModule/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blatt 3/CarModule/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCCModule/DCCModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Blatt 3/DCCModule/DCCModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCCModule/src/DCCModule/DCC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blatt 3/DCCModule/src/DCCModule/DCC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCCModule/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blatt 3/DCCModule/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedControlSystemModule/SpeedControlSystemModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Blatt 3/Minesweeper/Minesweeper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedControlSystemModule/src/SpeedControlSystemModule/SpeedProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blatt 3/SpeedControlSystemModule/src/SpeedControlSystemModule/SpeedProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedControlSystemModule/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blatt 3/SpeedControlSystemModule/src/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +72,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Software Engineering\SpeedControlSystemModule\src\SpeedProvider" />
-      <recent name="E:\Software Engineering\CarModule\src\Car" />
-      <recent name="E:\Software Engineering\ACCModule\src\ACC" />
-      <recent name="E:\Software Engineering\DCCModule\src\DCC" />
-      <recent name="E:\Software Engineering\ACCModule\src" />
+      <recent name="E:\Software Engineering\Blatt 3\Minesweeper\src\Controller" />
+      <recent name="E:\Software Engineering\Blatt 3\Minesweeper\src\Model" />
+      <recent name="E:\Software Engineering\Blatt 3\Minesweeper\src\View" />
+      <recent name="E:\Software Engineering\Blatt 3\Minesweeper\src" />
+      <recent name="E:\Software Engineering\Blatt 3" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MineSweeper">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CarModule.Car" />
       <module name="CarModule" />
@@ -80,8 +94,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MineSweeper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MineSweeper" />
+      <module name="Minesweeper" />
+      <option name="PROGRAM_PARAMETERS" value="300 300 10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Car" />
+      <item itemvalue="Application.MineSweeper" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MineSweeper" />
         <item itemvalue="Application.Car" />
       </list>
     </recent_temporary>
@@ -95,7 +122,8 @@
       <option name="presentableId" value="Default" />
       <updated>1668166344623</updated>
       <workItem from="1668166346918" duration="12833000" />
-      <workItem from="1668254009272" duration="349000" />
+      <workItem from="1668254009272" duration="1112000" />
+      <workItem from="1668351059081" duration="5662000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1668166516863</created>
@@ -132,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668181895745</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Aufgabe 3 beendet">
+      <created>1668254516593</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668254516593</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
