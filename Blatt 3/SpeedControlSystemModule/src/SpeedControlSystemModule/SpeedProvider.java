@@ -16,7 +16,7 @@ public interface SpeedProvider {
      * Soll Identifier liefern, mit dem man zwischen ACC und DCC unterscheiden kann.
      * @return Identifier
      */
-    String getDiscription();
+    String getDescription();
 
     /**
      * Legt eine Liste an und fügt alle Services hinzu, die SpeedProvider implementieren

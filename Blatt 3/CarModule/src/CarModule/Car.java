@@ -17,10 +17,10 @@ public class Car {
         }
         List<SpeedProvider> msgServices = SpeedProvider.getInstances();
         for (SpeedProvider service : msgServices) {
-            if(args[0].equals("ACC") && service.getDiscription().equals("ACC")){
+            if(args[0].equals("ACC") && service.getDescription().equals("ACC")){
                 System.out.println("Final Speed: " + service.getFinalSpeed() + "' !");
                 break;
-            }else if(args[0].equals("DCC") && service.getDiscription().equals("DCC")){
+            }else if(args[0].equals("DCC") && service.getDescription().equals("DCC")){
                 System.out.println("Final Speed: " + service.getFinalSpeed() + "' !");
                 break;
             }else if(!args[0].equals("DCC") && args[0].equals("ACC")){

@@ -9,7 +9,7 @@ public class DCC implements SpeedProvider {
     }
 
     @Override
-    public String getDiscription() {
+    public String getDescription() {
         return "DCC";
     }
 }

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Blatt 3/ACCModule/ACCModule.iml" filepath="$PROJECT_DIR$/Blatt 3/ACCModule/ACCModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blatt 3/Aufgabe4/Aufgabe4.iml" filepath="$PROJECT_DIR$/Blatt 3/Aufgabe4/Aufgabe4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Blatt 3/CarModule/CarModule.iml" filepath="$PROJECT_DIR$/Blatt 3/CarModule/CarModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/Blatt 3/DCCModule/DCCModule.iml" filepath="$PROJECT_DIR$/Blatt 3/DCCModule/DCCModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/Blatt 3/Minesweeper/Minesweeper.iml" filepath="$PROJECT_DIR$/Blatt 3/Minesweeper/Minesweeper.iml" />
